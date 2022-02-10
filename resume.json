@@ -1,0 +1,34 @@
+ {
+    "basics" : {
+        "Name" :  "NIRUBAN CHAKRAVARTHY M",
+        "label" :  "",
+        "pticture" : "",
+        "email address":"niruban746@gmail.com",
+        "Degee": "",
+        "department": "",
+        "location":{
+            "address":"4 122 sourastrapuram 6th st",
+            "postalcode":"625020",
+            "city": "chennai",
+            "country":"India"
+        },
+         "profile":[
+             {
+            "expirience":"",
+            "skill sets":"",
+            "hobbies":"",
+            "social media":"your whatsapp number and facebook id"
+         } 
+        ]
+         
+             
+
+
+
+        
+
+        
+
+
+    }
+}
